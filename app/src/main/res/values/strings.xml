@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Yappy</string>
+
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_contrasena">Contraseña</string>
+    <string name="txt_olvidastes_contra">¿Olvidastes la Contraseña?</string>
+    <string name="txt_btn1">Entrar</string>
+    <string name="txt_btn2">Crea tu usuario o abre tu cuenta</string>
+    <string name="txt_version">Version 7.1.126690</string>
+
+
+
+    <string name="txt_contactar">Contactar</string>
+    <string name="txt_token">Token</string>
+    <string name="txt_promociones">Promociones</string>
+    <string name="txt_lector">Lector QR</string>
+
+
+</resources>
